@@ -1,0 +1,20 @@
+C:\Users\fatima\source\repos\EMPRESAFD\bin\Debug\EMPRESAFD.exe.config
+C:\Users\fatima\source\repos\EMPRESAFD\bin\Debug\EMPRESAFD.exe
+C:\Users\fatima\source\repos\EMPRESAFD\bin\Debug\EMPRESAFD.pdb
+C:\Users\fatima\source\repos\EMPRESAFD\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\fatima\source\repos\EMPRESAFD\obj\Debug\EMPRESAFD.csproj.AssemblyReference.cache
+C:\Users\fatima\source\repos\EMPRESAFD\obj\Debug\EMPRESAFD.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatima\source\repos\EMPRESAFD\obj\Debug\EMPRESAFD.Inicio.resources
+C:\Users\fatima\source\repos\EMPRESAFD\obj\Debug\EMPRESAFD.Login.resources
+C:\Users\fatima\source\repos\EMPRESAFD\obj\Debug\EMPRESAFD.Properties.Resources.resources
+C:\Users\fatima\source\repos\EMPRESAFD\obj\Debug\EMPRESAFD.csproj.GenerateResource.cache
+C:\Users\fatima\source\repos\EMPRESAFD\obj\Debug\EMPRESAFD.csproj.CoreCompileInputs.cache
+C:\Users\fatima\source\repos\EMPRESAFD\obj\Debug\EMPRESAFD.csproj.CopyComplete
+C:\Users\fatima\source\repos\EMPRESAFD\obj\Debug\EMPRESAFD.exe
+C:\Users\fatima\source\repos\EMPRESAFD\obj\Debug\EMPRESAFD.pdb
+C:\Users\fatima\source\repos\EMPRESAFD\bin\Debug\empresa identidad.dll
+C:\Users\fatima\source\repos\EMPRESAFD\bin\Debug\empresa_Negocio.dll
+C:\Users\fatima\source\repos\EMPRESAFD\bin\Debug\empresa _Datos.dll
+C:\Users\fatima\source\repos\EMPRESAFD\bin\Debug\empresa identidad.pdb
+C:\Users\fatima\source\repos\EMPRESAFD\bin\Debug\empresa_Negocio.pdb
+C:\Users\fatima\source\repos\EMPRESAFD\bin\Debug\empresa _Datos.pdb
